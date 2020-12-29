@@ -1,6 +1,9 @@
 ## Hey! 
 I'm a PhD student at the University of Edinburgh. I work on statistical and machine learning techniques to analyse cancer genomics data, amidst other bits and pieces of fun stuff. I mostly code in R and Python. You can find my academic website [here](https://www.maths.ed.ac.uk/~s1505825/).
 
+PhD Progress:
+|===================================                                                                 | 35.7%
+
 <!--
 **cobrbra/cobrbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
