@@ -3,7 +3,7 @@ I'm a PhD student at the University of Edinburgh. I work on statistical and mach
 
 <pre>
 PhD Progress:
-|-----------------------------------------                                                           | <br> 40.7%
+|---------------------------------------->                                                           | <br> 40.7%
 </pre>
 
 <!--
