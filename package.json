@@ -1,0 +1,22 @@
+{
+  "name": "cobrbra",
+  "version": "1.0.0",
+  "description": "github description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobrbra/cobrbra.git"
+  },
+  "keywords": [
+    "home"
+  ],
+  "author": "cobrbra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobrbra/cobrbra/issues"
+  },
+  "homepage": "https://github.com/cobrbra/cobrbra#readme"
+}
