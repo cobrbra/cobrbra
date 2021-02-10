@@ -1,4 +1,6 @@
-## <img src="https://cdn.dribbble.com/users/942040/screenshots/4958927/glasses01.gif" width="60"/> Hey! I'm Jacob
+## Hey! I'm Jacob
+
+<img src="https://cdn.dribbble.com/users/942040/screenshots/4958927/glasses01.gif" width="100"/>
 
  * #### I'm a PhD student at the University of Edinburgh :scotland:
  * #### I work on statistical and machine learning techniques 
