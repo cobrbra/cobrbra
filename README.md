@@ -10,6 +10,7 @@ PhD Progress:
 **cobrbra/cobrbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I used this tutorial to work out how to do fancy github banners: https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
