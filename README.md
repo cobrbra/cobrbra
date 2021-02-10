@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-## Hey! I'm Jacob
-I'm a PhD student at the University of Edinburgh. I work on statistical and machine learning techniques to analyse cancer genomics data, amidst other bits and pieces of fun stuff. I mostly code in R and Python. You can find my academic website [here](https://www.maths.ed.ac.uk/~s1505825/). 
+	<h2> Hey! I'm Jacob </h2>
+
+I'm a PhD student at the University of Edinburgh. I work on statistical and machine learning techniques to analyse cancer genomics data, amidst other bits and pieces of fun stuff. I mostly code in R and Python. You can find my academic website <a href = "https://www.maths.ed.ac.uk/~s1505825/">here</a>. 
 
 PhD Progress:
 <b>|</b>||||||||||||||||||||||||||||||||||||||||>----------------------------------------------------------- <b>|</b> <br> 40.7%
