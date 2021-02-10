@@ -1,5 +1,4 @@
-## Hey! I'm Jacob
-(he/him) <br>
+## Hey! I'm Jacob (he/him)
 <img src="https://cdn.dribbble.com/users/942040/screenshots/4958927/glasses01.gif" width="100"/>
 
  * I'm a **PhD student** at the **University of Edinburgh** :scotland:
