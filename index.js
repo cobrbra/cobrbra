@@ -9,7 +9,6 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 
 let DATA = {
-  name: 'Jacob',
   date: new Date(),
   start_date: new Date('September 9, 2019 12:00:00'),
   finish_date: new Date('March 9, 2023 12:00:00'),
@@ -29,6 +28,7 @@ let DATA_RATIO = {
 };
 
 let DATA_FINAL = {
+  name: "Jacob",
   time_ratio: DATA_RATIO.time_ratio,
   progress: DATA.progress.repeat(DATA_RATIO.time_ratio_integer - 1),
   non_progress: DATA.non_progress.repeat(100 - DATA_RATIO.time_ratio_integer),

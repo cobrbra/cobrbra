@@ -1,4 +1,4 @@
-## Hey! I'm 
+## Hey! I'm Jacob
 I'm a PhD student at the University of Edinburgh. I work on statistical and machine learning techniques to analyse cancer genomics data, amidst other bits and pieces of fun stuff. I mostly code in R and Python. You can find my academic website [here](https://www.maths.ed.ac.uk/~s1505825/). 
 
 <pre>
