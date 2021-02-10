@@ -30,8 +30,8 @@ let DATA_RATIO = {
 
 let DATA_FINAL = {
   time_ratio: DATA_RATIO.time_ratio,
-  progress: DATA.progress.repeat(40),
-  non_progress: DATA.non_progress.repeat(60),
+  progress: DATA.progress.repeat(DATA_RATIO.time_ratio_integer),
+  non_progress: DATA.non_progress.repeat(100 - DATA_RATIO.time_ratio_integer),
 };
 
 /**
