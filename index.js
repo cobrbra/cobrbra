@@ -12,8 +12,8 @@ let DATA = {
   date: new Date(),
   start_date: new Date('September 9, 2019 12:00:00'),
   finish_date: new Date('March 9, 2023 12:00:00'),
-  progress: "|",
-  non_progress: "-",
+  progress: ":green_circle:",
+  non_progress: ":white_circle:",
 
 };
 
