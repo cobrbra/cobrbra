@@ -1,5 +1,5 @@
 ## Hey! I'm Jacob (he/him)
-<img src="https://cdn.dribbble.com/users/942040/screenshots/4958927/glasses01.gif" width="100"/>
+<img src="https://media.giphy.com/media/ssKazQuV7Vs2c/giphy.gif" width="100"/>
 
  * I'm a **PhD student** at the **University of Edinburgh** :scotland:
  * I work on **statistical** and **machine learning** techniques :abacus:
