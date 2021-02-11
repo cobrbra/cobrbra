@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cobrbra/cobrbra/issues"
   },
-  "homepage": "https://github.com/cobrbra/cobrbra#readme"
+  "homepage": "https://github.com/cobrbra/cobrbra#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
 }
