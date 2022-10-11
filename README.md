@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/ssKazQuV7Vs2c/giphy.gif" width="100"/>
 
  * I'm a **PhD student** at the **University of Edinburgh** :scotland:
+ * I'm current based at the **Alan Turing Institute** in **London** :cityscape:
  * I work on **statistical** and **machine learning** techniques :abacus:
  * I use these techniques to analyse **cancer genomics** data :dna: 
  * I mostly code in **R** and **python** :snake: 
