@@ -11,7 +11,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 let DATA = {
   date: new Date(),
   start_date: new Date('September 9, 2019 12:00:00'),
-  finish_date: new Date('August 9, 2023 12:00:00'),
+  finish_date: new Date('July 24, 2023 09:00:00'),
   progress: ":green_circle:",
   non_progress: ":white_circle:",
 
