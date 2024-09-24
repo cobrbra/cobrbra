@@ -1,14 +1,15 @@
 ## Hey! I'm Jacob (he/him)
 <img src="https://media.giphy.com/media/ssKazQuV7Vs2c/giphy.gif" width="100"/>
+This GitHub isn't used so much anymore! I now work in industry, still write lots of code, but don't get to share it as readily.
 
- * I'm a **PhD student** at the **University of Edinburgh** :scotland:
+ * I'm **was** a **PhD student** at the **University of Edinburgh** :scotland:
  * I work on **statistical** and **machine learning** techniques :abacus:
  * I use these techniques to analyse **cancer genomics** data :dna: 
- * I mostly code in **R** and **python** :snake: 
+ * I mostly code in **python** and **R** :snake: 
  * You can find my academic website <a href = "https://www.maths.ed.ac.uk/~s1505825/">here</a> :man_student:
 
 ### PhD Progress:
-:checkered_flag: :green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle: :goat:  :checkered_flag: <br> *100.5%*
+:checkered_flag: :green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle::green_circle: :goat:  :checkered_flag: <br> *100%*
 
 <!--
 
