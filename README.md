@@ -1,8 +1,9 @@
 ## Hey! I'm Jacob (he/him)
 <img src="https://media.giphy.com/media/ssKazQuV7Vs2c/giphy.gif" width="100"/>
-This GitHub isn't used so much anymore! I now work in industry, still write lots of code, but don't get to share it as readily.
+Note: This GitHub isn't used so much anymore! I now work in industry, still write lots of code, but don't get to share it as readily.
+<br><br>
 
- * I'm **was** a **PhD student** at the **University of Edinburgh** :scotland:
+ * I **was** a **PhD student** at the **University of Edinburgh** :scotland:
  * I work on **statistical** and **machine learning** techniques :abacus:
  * I use these techniques to analyse **cancer genomics** data :dna: 
  * I mostly code in **python** and **R** :snake: 
